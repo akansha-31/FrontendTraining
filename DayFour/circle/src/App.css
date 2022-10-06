@@ -1,0 +1,25 @@
+.c1{
+  background-color: red;
+  border-radius: 50%;
+  position: relative;
+  height: 300px;
+  width: 300px;
+}
+.c2{
+  background-color: blue;
+  border-radius: 50%;
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  top : 6.5%;
+  left: 3.5%;
+}
+.c3{
+  background-color: green;
+  border-radius: 50%;
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  top : 13%;
+  left: 7%;
+}
